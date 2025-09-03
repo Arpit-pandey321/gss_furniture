@@ -13586,7 +13586,7 @@ STEP NUMBER
   margin-right: -230px;
 }
 .welcome-carousel-1 .home-carousel-1 {
-  -webkit-box-shadow: -30px 30px 60px 0 #rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: -30px 30px 60px 0 rgba(0, 0, 0, 0.5);
   box-shadow: -30px 30px 60px 0 rgba(0, 0, 0, 0.5);
 }
 
